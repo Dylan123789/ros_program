@@ -1,0 +1,2 @@
+plumbing_pub_sub
+-DCATKIN_DEVEL_PREFIX=/home/dylan/桌面/demo03_ws/devel -DCMAKE_INSTALL_PREFIX=/home/dylan/桌面/demo03_ws/install -G Unix Makefiles
